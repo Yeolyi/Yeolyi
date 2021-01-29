@@ -6,19 +6,25 @@
 
     하나의 철학 아래 일관된 뜻을 전하는 앱을 꿈꿉니다.💭
 
-아래는 제가 개발한 앱들이에요!
+## 개발한 앱
 
 ### Filin <img src="https://user-images.githubusercontent.com/70733203/106231558-54c64200-6235-11eb-9045-44787fa26ac0.png" width=20>
 
-목표/습관 관리 앱 [깃허브](https://github.com/Yeolyi/Filin)  /  [앱스토어](https://apps.apple.com/kr/app/filin/id1545601686)
+목표/습관 관리 앱 
+
+[깃허브](https://github.com/Yeolyi/Filin)  /  [앱스토어](https://apps.apple.com/kr/app/filin/id1545601686)
 
 ### 스누냠 <img src="https://user-images.githubusercontent.com/70733203/106231436-16c91e00-6235-11eb-947a-1289520f530f.png" width=20>
 
-서울대학교 학식 앱 [깃허브](https://github.com/Yeolyi/SNUYum)  /  [앱스토어](https://apps.apple.com/kr/app/%EC%8A%A4%EB%88%84%EB%83%A0-%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-%ED%95%99%EC%8B%9D/id1528983763)
+서울대학교 학식 앱 
+
+[깃허브](https://github.com/Yeolyi/SNUYum)  /  [앱스토어](https://apps.apple.com/kr/app/%EC%8A%A4%EB%88%84%EB%83%A0-%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-%ED%95%99%EC%8B%9D/id1528983763)
 
 ### DayStack <img src="https://user-images.githubusercontent.com/70733203/106231143-59d6c180-6234-11eb-8223-fe4605774128.png" width=20>
 
-디데이 관리 앱 [앱스토어](https://apps.apple.com/kr/app/daystack-%EB%94%94%EB%8D%B0%EC%9D%B4/id1501387904)
+디데이 관리 앱 
+
+[앱스토어](https://apps.apple.com/kr/app/daystack-%EB%94%94%EB%8D%B0%EC%9D%B4/id1501387904)
 
 ## 요즘 제 관심사는,,,
 
@@ -28,7 +34,7 @@
     
     - 효율적인 코드 관리와 협업
 
-# 연락처
+## 연락처
 
 **Email -** type101315@gmail.com
 
