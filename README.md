@@ -4,8 +4,6 @@
 
     하나의 철학 아래 일관된 뜻을 전하는 앱을 꿈꿉니다.💭
 
-# 만든 앱들
-
 ## Filin
 
 <img src="https://user-images.githubusercontent.com/70733203/106231558-54c64200-6235-11eb-9045-44787fa26ac0.png" width=100>
