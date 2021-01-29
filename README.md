@@ -6,7 +6,7 @@
 
     하나의 철학 아래 일관된 뜻을 전하는 앱을 꿈꿉니다.💭
 
-## 개발한 앱
+## 제가 개발한 앱들
 
 <img src="https://user-images.githubusercontent.com/70733203/106231558-54c64200-6235-11eb-9045-44787fa26ac0.png" width=75> <img src="https://user-images.githubusercontent.com/70733203/106236025-5bf24d80-623f-11eb-852a-7573fa2e77ed.png" width=75> <img src="https://user-images.githubusercontent.com/70733203/106235941-2baaaf00-623f-11eb-9c16-5badf913093f.png" width=75>
 
