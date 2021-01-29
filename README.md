@@ -24,6 +24,8 @@
 
 ### DayStack
 
+<img src="https://user-images.githubusercontent.com/70733203/106231143-59d6c180-6234-11eb-8223-fe4605774128.png" width=100>
+
 지나가고 함께한 날을 쌓다
 
 [앱스토어](https://apps.apple.com/kr/app/daystack-%EB%94%94%EB%8D%B0%EC%9D%B4/id1501387904)
