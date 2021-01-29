@@ -29,9 +29,3 @@
     - 심미적이고 직관적인 사용성을 가지는 UX
     
     - 효율적인 코드 관리와 협업
-
-## 연락처
-
-💌 type101315@gmail.com
-
-<img src="https://user-images.githubusercontent.com/70733203/106235761-b17a2a80-623e-11eb-8aa2-0a59f38da475.png" width=18> @diez_yeolyi_
