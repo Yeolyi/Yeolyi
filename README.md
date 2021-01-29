@@ -18,6 +18,8 @@
 
 ### 스누냠
 
+<img src="https://user-images.githubusercontent.com/70733203/106231436-16c91e00-6235-11eb-947a-1289520f530f.png" width=100>
+
 식당, 학식 정보를 한번에
 
 [깃허브](https://github.com/Yeolyi/SNUYum)  /  [앱스토어](https://apps.apple.com/kr/app/%EC%8A%A4%EB%88%84%EB%83%A0-%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-%ED%95%99%EC%8B%9D/id1528983763)
