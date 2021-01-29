@@ -36,6 +36,6 @@
 
 ## 연락처
 
-**Email -** type101315@gmail.com
+💌 type101315@gmail.com
 
-**Instagram -** diez_yeolyi_
+<img src="https://user-images.githubusercontent.com/70733203/106235761-b17a2a80-623e-11eb-8aa2-0a59f38da475.png" width=18> @diez_yeolyi_
