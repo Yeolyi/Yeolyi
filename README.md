@@ -8,19 +8,19 @@
 
 ## 개발한 앱
 
-### Filin <img src="https://user-images.githubusercontent.com/70733203/106231558-54c64200-6235-11eb-9045-44787fa26ac0.png" width=20>
+### Filin <img src="https://user-images.githubusercontent.com/70733203/106231558-54c64200-6235-11eb-9045-44787fa26ac0.png" width=25>
 
 목표/습관 관리 앱 
 
 [깃허브](https://github.com/Yeolyi/Filin)  /  [앱스토어](https://apps.apple.com/kr/app/filin/id1545601686)
 
-### 스누냠 <img src="https://user-images.githubusercontent.com/70733203/106231436-16c91e00-6235-11eb-947a-1289520f530f.png" width=20>
+### 스누냠 <img src="https://user-images.githubusercontent.com/70733203/106236025-5bf24d80-623f-11eb-852a-7573fa2e77ed.png" width=25>
 
 서울대학교 학식 앱 
 
 [깃허브](https://github.com/Yeolyi/SNUYum)  /  [앱스토어](https://apps.apple.com/kr/app/%EC%8A%A4%EB%88%84%EB%83%A0-%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-%ED%95%99%EC%8B%9D/id1528983763)
 
-### DayStack <img src="https://user-images.githubusercontent.com/70733203/106235941-2baaaf00-623f-11eb-9c16-5badf913093f.png" width=20>
+### DayStack <img src="https://user-images.githubusercontent.com/70733203/106235941-2baaaf00-623f-11eb-9c16-5badf913093f.png" width=25>
 
 디데이 관리 앱 
 
