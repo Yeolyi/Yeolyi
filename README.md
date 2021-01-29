@@ -25,3 +25,9 @@
 ### DayStack <img src="https://user-images.githubusercontent.com/70733203/106235941-2baaaf00-623f-11eb-9c16-5badf913093f.png" width=20>
 
 디데이 관리 앱  [AppStore](https://apps.apple.com/kr/app/daystack-%EB%94%94%EB%8D%B0%EC%9D%B4/id1501387904)
+
+## 연락처
+
+<img src="https://user-images.githubusercontent.com/70733203/106235761-b17a2a80-623e-11eb-8aa2-0a59f38da475.png" width=20> diez.yeolyi_
+
+💌 type101315@gmail.com
