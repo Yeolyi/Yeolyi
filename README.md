@@ -21,11 +21,3 @@
 ### DayStack <img src="https://user-images.githubusercontent.com/70733203/106235941-2baaaf00-623f-11eb-9c16-5badf913093f.png" width=20>
 
 디데이 관리 앱  [AppStore](https://apps.apple.com/kr/app/daystack-%EB%94%94%EB%8D%B0%EC%9D%B4/id1501387904)
-
-## 요즘 제 관심사는,,,
-
-- 함수형, 프로토콜 지향 패러다임으로서의 Swift 언어
-    
-- 심미적이고 직관적인 사용성을 가지는 UX
-    
-- 효율적인 코드 관리와 협업
