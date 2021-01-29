@@ -20,7 +20,7 @@
 
 [깃허브](https://github.com/Yeolyi/SNUYum)  /  [앱스토어](https://apps.apple.com/kr/app/%EC%8A%A4%EB%88%84%EB%83%A0-%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-%ED%95%99%EC%8B%9D/id1528983763)
 
-### DayStack <img src="https://user-images.githubusercontent.com/70733203/106231143-59d6c180-6234-11eb-8223-fe4605774128.png" width=20>
+### DayStack <img src="https://user-images.githubusercontent.com/70733203/106235941-2baaaf00-623f-11eb-9c16-5badf913093f.png" width=20>
 
 디데이 관리 앱 
 
