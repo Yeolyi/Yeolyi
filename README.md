@@ -11,6 +11,7 @@
 <img src="https://user-images.githubusercontent.com/70733203/106231558-54c64200-6235-11eb-9045-44787fa26ac0.png" width=100>
 
 ### '세상의 모든 목표를 손 안에'
+
 목표/습관 관리 앱
 
 [깃허브](https://github.com/Yeolyi/Filin)  /  [앱스토어](https://apps.apple.com/kr/app/filin/id1545601686)
@@ -31,7 +32,7 @@
 
 ### '지나가고 함께한 날을 쌓다'
 
-'디데이 관리 앱'
+디데이 관리 앱
 
 [앱스토어](https://apps.apple.com/kr/app/daystack-%EB%94%94%EB%8D%B0%EC%9D%B4/id1501387904)
 
